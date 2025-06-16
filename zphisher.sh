@@ -203,7 +203,7 @@ check_status() {
 ## Banner
 banner() {
 	cat <<- EOF
-Zaunjae's Tool
+           ${GREEN} Zaunjae's Tool
 	EOF
 }
 
